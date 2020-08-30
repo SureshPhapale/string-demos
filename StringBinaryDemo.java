@@ -43,5 +43,4 @@ public class StringBinaryDemo{
 		String s1 = "000111000111111111111";
 		driverCode(s1);
 	}
-
 }
